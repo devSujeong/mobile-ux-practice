@@ -18,6 +18,7 @@ export default function HammerComponent() {
     }
   );
 
+  // test
   // useEffect(() => {
   //   const target = document.getElementById('target');
   //   if (target === null) return;
